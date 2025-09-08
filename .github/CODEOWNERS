@@ -1,0 +1,14 @@
+# Global code owners
+* @SillyAllen86
+
+# CI/CD workflows
+/.github/ @SillyAllen86
+
+# Documentation
+/README.md @SillyAllen86
+/docs/ @SillyAllen86
+
+# Configuration files
+/Package.swift @SillyAllen86
+/Dockerfile @SillyAllen86
+/docker-compose.yml @SillyAllen86
